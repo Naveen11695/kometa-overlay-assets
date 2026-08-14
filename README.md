@@ -14,7 +14,11 @@ PNG images, fonts, and sprites used by the [kometa-overlay-configs](https://gith
 
 ## Setup
 
-Place this directory inside your Kometa config folder (e.g. `config/overlays/`) so overlay YAML `file` paths resolve correctly.
+Place the contents of this repo inside your Kometa `config/overlays/` directory so overlay YAML `file` paths (e.g. `config/overlays/4K-HDR.png`) resolve correctly. The overlay YAML definitions live in the companion [kometa-overlay-configs](https://github.com/Naveen11695/kometa-overlay-configs) repo — see its README for full setup instructions.
+
+## Screenshots
+
+Example overlays applied in Plex are shown in the [kometa-overlay-configs README](https://github.com/Naveen11695/kometa-overlay-configs#screenshots).
 
 ## Excluded
 
