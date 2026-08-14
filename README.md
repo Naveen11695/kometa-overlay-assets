@@ -1,6 +1,10 @@
 # Kometa Overlay Assets
 
+> **Deprecated:** This repo has been merged into [kometa-overlay-stack](https://github.com/Naveen11695/kometa-overlay-stack), which bundles PNG images, fonts, overlay YAML, UMTK snapshots, and full pipeline documentation in a single package. Please use the new repo for all setup and updates.
+
 PNG images, fonts, and sprites used by the [kometa-overlay-configs](https://github.com/Naveen11695/kometa-overlay-configs) overlay YAML files.
+
+**New unified repo:** [kometa-overlay-stack](https://github.com/Naveen11695/kometa-overlay-stack) — assets are in the `assets/` directory.
 
 ## Contents
 
